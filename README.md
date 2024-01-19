@@ -56,7 +56,7 @@ This initiative facilitates online appointment requests for clients or patients 
 4. Browse the PHPMyAdmin in a browser. i.e. http://localhost/phpmyadmin
 5. Create a new database naming `edoc`.
 6. Import the provided SQL file. The file is known as DATABASE edoc.sql located inside the source code root folder.
-7. Browse the Doctor's Appointment Systsem in a browser. i.e. http://localhost/MedAppointments-main/index%20(1).html
+7. Browse the Doctor's Appointment System in a browser. i.e. http://localhost/MedAppointments-main/index%20(1).html
 
 ## Screenshots
 
